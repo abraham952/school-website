@@ -1,0 +1,6 @@
+{
+  "name": "Wisdom Academy",
+  "description": "Enterprise-grade digital portal for Wisdom Academy, featuring a multi-lingual public website, student information management, digital admissions, ID card generation, and secure admin tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
