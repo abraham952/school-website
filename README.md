@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" 
 </div>
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+This contains everything you need to run your app locally
 
-View your app in AI Studio: https://ai.studio/apps/ddd14ff6-7460-432d-80bd-23d886103837
+View your app in AI Studio: https://wisdom-academy-968665412989.europe-west2.run.app
 
 ## Run Locally
 
